@@ -1,0 +1,6 @@
+# Database connection - replace with your real credentials
+DB_USER=readonly_user
+DB_PASSWORD=change_me_in_prod
+DB_HOST=db.local
+DB_PORT=5432
+DB_NAME=analytics_staging
